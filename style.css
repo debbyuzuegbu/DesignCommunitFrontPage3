@@ -27,6 +27,15 @@ body{
     padding: 150px;
 }
 
+.search-btn{
+    text-align: left;
+    width: 60px;
+    border-radius: 8px;
+    background-color: #F6F6F6;
+    color: #666666;
+    border: 1px solid #666666
+}
+
 span{
     display: flex;
 
