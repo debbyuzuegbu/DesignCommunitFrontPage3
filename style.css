@@ -1,6 +1,45 @@
 
-
+body{
+    font-family: 'Poppins', sans-serif;
+}
 
 .image-side {
-    background-image: url();
+    background-image: url(./10586\ 1.jpg);
+    background-position: cover;
+    width: 500px;
+    height: 300px;
+    background-repeat: no-repeat;
+}
+
+.menu-bar{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.section{
+    display:flex;
+    padding: 180px;
+}
+
+span{
+    display: flex;
+
+}
+.sign-up{
+    font-size: smaller;
+}
+
+.right-section{
+    position: relative;
+    width: 500px;
+    height: 300px;
+    text-align: left;
+    font-size: small;
+
+}
+
+.left-section{
+    position: absolute;
+    left: 40%;
+    
 }
